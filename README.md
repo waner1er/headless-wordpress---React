@@ -8,7 +8,7 @@ Wordpress (
 Frontend
 1/ouvrir le dossier frontend dans l'IDE 
 2/lancer npm start en console
-3/la page 'ouvre sur localhost:300
+3/la page 'ouvre sur localhost:3000
 
 
 ------------------------------------------------------------------------------------------
