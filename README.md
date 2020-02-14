@@ -68,6 +68,9 @@ X
    1. Une Home avec la liste de contenu de ton CPT 
 
    2. Quand on clic sur un item de la liste, affiche une page de détail
+   
+   
+   
     • Installation de  React → npx create-react-app news
     • Installation des plugins pour les requêtes les routes et les liens → axios et react-router-dom
     • créer un dossier Components 
