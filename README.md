@@ -39,7 +39,7 @@ X
     • Génération d’entrées avec le  WP-CLI
         ◦ Après installation du wp-CLI sur la poste utilisation de la commande : 
           
-      curl http://loripsum.net/api/5 | wp post generate --post_type=news  --post_content –count=20
+      curl http://loripsum.net/api/5 | wp post generate --post_type=news  --post_content -–count=20
       
     • curl = recherche de lorem ipsum a partir de l’api loripsum.net
     • wp = commande du cli 
